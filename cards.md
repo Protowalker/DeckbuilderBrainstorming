@@ -42,3 +42,22 @@ Vulnerable for: 0 turns
 - Does 2 damage
 - Has 6 health
 - Upon death, add copy of the killer to the friendly player's hand.
+
+__Trojan__
+(Upgrade)
+- Upon this unit's death, give the killer 2 Malware.
+- A unit infected with malware can only function every other turn. On disabled turns, goes down by 1.
+
+__Fresh coat of paint__
+(Upgrade card)
+- Heal a unit on your side of the field for 5 HP.
+- Add a copy of this card to your discard pile.
+
+__Patriot__
+(Mobile unit)
+Vulnerable for: 5 turns
+- Deals 40 damage
+- Has 0 health (dies immediately upon attacking)
+- Has a range of 16 spaces
+
+
