@@ -56,8 +56,16 @@ __Fresh coat of paint__
 __Patriot__
 (Mobile unit)
 Vulnerable for: 5 turns
+Shouts "for {company name}!"
 - Deals 40 damage
 - Has 0 health (dies immediately upon attacking)
 - Has a range of 16 spaces
+
+__Mesh Network__
+(Mobile unit)
+Vulnerable for: 1 turn
+- Gives a damage boost to all units within 2 squares.
+- 0 damage
+- 20 health
 
 
